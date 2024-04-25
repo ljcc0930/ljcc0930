@@ -7,10 +7,10 @@ My name is [Jiancheng (JC) Liu](https://ljcc0930.github.io/). I am a graduate st
 
 ### My recent works about machine unlearning (MU)
 |Paper Title|Venue|<div style="width:350px">Repository</div>|
-|---|:---:|:---|
-|[SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://openreview.net/forum?id=UsdoZJddRo)| In Submission ||
-|[Challenging Forgets: Unveiling the Worst-Case Forget Sets in Machine Unlearning](https://arxiv.org/abs/2403.07362)|arXiv|[![OPTML-Group/Unlearn-WorstCase](https://img.shields.io/badge/OPTML--Group-Unlearn--WorstCase-white?logo=github)](https://github.com/OPTML-Group/Unlearn-WorstCase)|
-|[UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/abs/2402.11846)|arXiv|[![OPTML-Group/UnlearnCanvas](https://img.shields.io/badge/OPTML--Group-UnlearnCanvas-white?logo=github)](https://github.com/OPTML-Group/UnlearnCanvas)|
-|[To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images... For Now](https://arxiv.org/abs/2310.11868)|arXiv|[![OPTML-Group/Diffusion-MU-Attack](https://img.shields.io/badge/OPTML--Group-Diffusion--MU--Attack-white?logo=github)](https://github.com/OPTML-Group/Diffusion-MU-Attack)|
+|---|:---:|:---:|
+|[SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://openreview.net/pdf?id=UsdoZJddRo)| In Submission ||
+|[Challenging Forgets: Unveiling the Worst-Case Forget Sets in Machine Unlearning](https://arxiv.org/abs/2403.07362)| In Submission |[![OPTML-Group/Unlearn-WorstCase](https://img.shields.io/badge/OPTML--Group-Unlearn--WorstCase-white?logo=github)](https://github.com/OPTML-Group/Unlearn-WorstCase)|
+|[UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/abs/2402.11846)| In Submission |[![OPTML-Group/UnlearnCanvas](https://img.shields.io/badge/OPTML--Group-UnlearnCanvas-white?logo=github)](https://github.com/OPTML-Group/UnlearnCanvas)|
+|[To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images... For Now](https://arxiv.org/abs/2310.11868)| In Submission |[![OPTML-Group/Diffusion-MU-Attack](https://img.shields.io/badge/OPTML--Group-Diffusion--MU--Attack-white?logo=github)](https://github.com/OPTML-Group/Diffusion-MU-Attack)|
 |[SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation](https://arxiv.org/abs/2310.12508)|ICLR'24 (**Spotlight**)|[![OPTML-Group/Unlearn-Saliency](https://img.shields.io/badge/OPTML--Group-Unlearn--Saliency-white?logo=github)](https://github.com/OPTML-Group/Unlearn-Saliency)|
 |[Model Sparsity Can Simplify Machine Unlearning](https://arxiv.org/abs/2304.04934)|NeurIPS'23 (**Spotlight**)|[![OPTML-Group/Unlearn-Sparse](https://img.shields.io/badge/OPTML--Group-Unlearn--Sparse-white?logo=github)](https://github.com/OPTML-Group/Unlearn-Sparse)|
