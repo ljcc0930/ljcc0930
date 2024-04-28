@@ -8,7 +8,7 @@ My name is [Jiancheng (JC) Liu](https://ljcc0930.github.io/). I am a graduate st
 ### My recent works about machine unlearning (MU)
 |Paper Title|Venue|<div style="width:350px">Repository</div>|
 |---|:---:|:---:|
-|[SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://openreview.net/pdf?id=UsdoZJddRo)| In Submission ||
+|[SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://openreview.net/pdf?id=UsdoZJddRo)| In Submission |[![OPTML-Group/Unlearn-WorstCase](https://img.shields.io/badge/OPTML--Group-SOUL-white?logo=github)](https://github.com/OPTML-Group/SOUL)|
 |[Challenging Forgets: Unveiling the Worst-Case Forget Sets in Machine Unlearning](https://arxiv.org/abs/2403.07362)| In Submission |[![OPTML-Group/Unlearn-WorstCase](https://img.shields.io/badge/OPTML--Group-Unlearn--WorstCase-white?logo=github)](https://github.com/OPTML-Group/Unlearn-WorstCase)|
 |[UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/abs/2402.11846)| In Submission |[![OPTML-Group/UnlearnCanvas](https://img.shields.io/badge/OPTML--Group-UnlearnCanvas-white?logo=github)](https://github.com/OPTML-Group/UnlearnCanvas)|
 |[To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images... For Now](https://arxiv.org/abs/2310.11868)| In Submission |[![OPTML-Group/Diffusion-MU-Attack](https://img.shields.io/badge/OPTML--Group-Diffusion--MU--Attack-white?logo=github)](https://github.com/OPTML-Group/Diffusion-MU-Attack)|
