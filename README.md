@@ -2,7 +2,6 @@
 
 My name is [Jiancheng (JC) Liu](https://ljcc0930.github.io/). I am a graduate student at Michigan State University, currently work at [OPTML Group](https://github.com/OPTML-Group). My recent research focuses on scalable and trustworthy AI.
 
-- We are going to hold a tutorial about **machine unlearning** at CVPR 2024! Stay tuned!
 - I am planning to **enroll as a doctoral student in 2025**. Should you have any promising opportunities, please feel free to contact me!
 
 ### My recent works about machine unlearning (MU)
