@@ -7,7 +7,7 @@ My name is [Jiancheng (JC) Liu](https://ljcc0930.github.io/). I am a graduate st
 ### My recent works about machine unlearning (MU)
 |Paper Title|Venue|<div style="width:350px">Repository</div>|
 |---|:---:|:---:|
-|[UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/abs/2402.11846)| In Submission |[![OPTML-Group/UnlearnCanvas](https://img.shields.io/badge/OPTML--Group-UnlearnCanvas-white?logo=github)](https://github.com/OPTML-Group/UnlearnCanvas)|
+|[UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/abs/2402.11846)| NeurIPS'24 D&B |[![OPTML-Group/UnlearnCanvas](https://img.shields.io/badge/OPTML--Group-UnlearnCanvas-white?logo=github)](https://github.com/OPTML-Group/UnlearnCanvas)|
 |WAGLE: Strategic Weight Attribution for Effective and Modular Unlearning in Large Language Models| NeurIPS'24 | (TBA) |
 |[Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models](https://arxiv.org/abs/2405.15234)| NeurIPS'24 |[![OPTML-Group/AdvUnlearn](https://img.shields.io/badge/OPTML--Group-AdvUnlearn-white?logo=github)](https://github.com/OPTML-Group/AdvUnlearn)|
 |[SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://arxiv.org/abs/2404.18239)| EMNLP'24 |[![OPTML-Group/Unlearn-WorstCase](https://img.shields.io/badge/OPTML--Group-SOUL-white?logo=github)](https://github.com/OPTML-Group/SOUL)|
