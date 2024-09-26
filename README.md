@@ -7,12 +7,17 @@ My name is [Jiancheng (JC) Liu](https://ljcc0930.github.io/). I am a graduate st
 ### My recent works about machine unlearning (MU)
 |Paper Title|Venue|<div style="width:350px">Repository</div>|
 |---|:---:|:---:|
+|**Unlearning for LLMs**||
 |Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning| In Submission | (TBA) |
 |WAGLE: Strategic Weight Attribution for Effective and Modular Unlearning in Large Language Models| NeurIPS'24 | (TBA) |
+|[SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://arxiv.org/abs/2404.18239)| EMNLP'24 |[![OPTML-Group/Unlearn-WorstCase](https://img.shields.io/badge/OPTML--Group-SOUL-white?logo=github)](https://github.com/OPTML-Group/SOUL)|
+|||
+|**Unlearning for Diffusion Models**||
 |[Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models](https://arxiv.org/abs/2405.15234)| NeurIPS'24 |[![OPTML-Group/AdvUnlearn](https://img.shields.io/badge/OPTML--Group-AdvUnlearn-white?logo=github)](https://github.com/OPTML-Group/AdvUnlearn)|
 |[UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models](https://arxiv.org/abs/2402.11846)| NeurIPS'24 D&B |[![OPTML-Group/UnlearnCanvas](https://img.shields.io/badge/OPTML--Group-UnlearnCanvas-white?logo=github)](https://github.com/OPTML-Group/UnlearnCanvas)|
-|[SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://arxiv.org/abs/2404.18239)| EMNLP'24 |[![OPTML-Group/Unlearn-WorstCase](https://img.shields.io/badge/OPTML--Group-SOUL-white?logo=github)](https://github.com/OPTML-Group/SOUL)|
-|[Challenging Forgets: Unveiling the Worst-Case Forget Sets in Machine Unlearning](https://arxiv.org/abs/2403.07362)| ECCV'24 |[![OPTML-Group/Unlearn-WorstCase](https://img.shields.io/badge/OPTML--Group-Unlearn--WorstCase-white?logo=github)](https://github.com/OPTML-Group/Unlearn-WorstCase)|
 |[To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images... For Now](https://arxiv.org/abs/2310.11868)| ECCV'24 |[![OPTML-Group/Diffusion-MU-Attack](https://img.shields.io/badge/OPTML--Group-Diffusion--MU--Attack-white?logo=github)](https://github.com/OPTML-Group/Diffusion-MU-Attack)|
 |[SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation](https://arxiv.org/abs/2310.12508)|ICLR'24 (**Spotlight**)|[![OPTML-Group/Unlearn-Saliency](https://img.shields.io/badge/OPTML--Group-Unlearn--Saliency-white?logo=github)](https://github.com/OPTML-Group/Unlearn-Saliency)|
+|||
+|**Unlearning for Classification Models**||
+|[Challenging Forgets: Unveiling the Worst-Case Forget Sets in Machine Unlearning](https://arxiv.org/abs/2403.07362)| ECCV'24 |[![OPTML-Group/Unlearn-WorstCase](https://img.shields.io/badge/OPTML--Group-Unlearn--WorstCase-white?logo=github)](https://github.com/OPTML-Group/Unlearn-WorstCase)|
 |[Model Sparsity Can Simplify Machine Unlearning](https://arxiv.org/abs/2304.04934)|NeurIPS'23 (**Spotlight**)|[![OPTML-Group/Unlearn-Sparse](https://img.shields.io/badge/OPTML--Group-Unlearn--Sparse-white?logo=github)](https://github.com/OPTML-Group/Unlearn-Sparse)|
