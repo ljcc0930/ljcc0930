@@ -8,7 +8,7 @@ My name is [Jiancheng (JC) Liu](https://ljcc0930.github.io/). I am a graduate st
 |Paper Title|Venue|<div style="width:350px">Repository</div>|
 |---|:---:|:---:|
 |**Unlearning for LLMs**||
-|Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning| In Submission | (TBA) |
+|Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning| In Submission | [![OPTML-Group/Unlearn-Simple](https://img.shields.io/badge/OPTML--Group-Unlearn--Simple-white?logo=github)](https://github.com/OPTML-Group/Unlearn-Simple) |
 |WAGLE: Strategic Weight Attribution for Effective and Modular Unlearning in Large Language Models| NeurIPS'24 | (TBA) |
 |[SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://arxiv.org/abs/2404.18239)| EMNLP'24 |[![OPTML-Group/Unlearn-WorstCase](https://img.shields.io/badge/OPTML--Group-SOUL-white?logo=github)](https://github.com/OPTML-Group/SOUL)|
 |||
