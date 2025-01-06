@@ -14,7 +14,7 @@ Before studying at MSU, I joined [Taichi Graphics Technology, Inc.](https://taic
 |Paper Title|Venue|<div style="width:350px">Repository</div>|
 |---|:---:|:---:|
 |**Unlearning for LLMs**||
-|[Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning](https://arxiv.org/abs/2410.07163)| In Submission | [![OPTML-Group/Unlearn-Simple](https://img.shields.io/badge/Unlearn--Simple-grey?logo=github)](https://github.com/OPTML-Group/Unlearn-Simple) |
+|[Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning](https://arxiv.org/abs/2410.07163)| NeurIPS'24 SafeGenAI | [![OPTML-Group/Unlearn-Simple](https://img.shields.io/badge/Unlearn--Simple-grey?logo=github)](https://github.com/OPTML-Group/Unlearn-Simple) |
 |[WAGLE: Strategic Weight Attribution for Effective and Modular Unlearning in Large Language Models](https://arxiv.org/abs/2410.17509)| NeurIPS'24 | [![OPTML-Group/WAGLE](https://img.shields.io/badge/WAGLE-grey?logo=github)](https://github.com/OPTML-Group/WAGLE) |
 |[SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning](https://arxiv.org/abs/2404.18239)| EMNLP'24 |[![OPTML-Group/Unlearn-WorstCase](https://img.shields.io/badge/SOUL-grey?logo=github)](https://github.com/OPTML-Group/SOUL)|
 |||
