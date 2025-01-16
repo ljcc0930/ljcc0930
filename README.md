@@ -10,7 +10,7 @@ Before studying at MSU, I joined [Taichi Graphics Technology, Inc.](https://taic
 
 **Email:** liujia45 (at) msu (dot) edu [[CV](https://ljcc0930.github.io/docs/cv_jiancheng.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=ReWNzl4AAAAJ)] [[GitHub](https://github.com/ljcc0930)]
 
-### My publications by category
+### My selected publications (by category)
 |Paper Title|Venue|<div style="width:350px">Repository</div>|
 |---|:---:|:---:|
 |**Unlearning for LLMs**||
