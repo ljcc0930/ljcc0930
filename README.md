@@ -8,7 +8,7 @@ Before studying at MSU, I joined [Taichi Graphics Technology, Inc.](https://taic
 
 </br>
 
-**Email:** liujia45 (at) msu (dot) edu [[CV](https://ljcc0930.github.io/docs/cv_jiancheng.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=ReWNzl4AAAAJ)] [[GitHub](https://github.com/ljcc0930)]
+**Email:** liujia45 (at) msu (dot) edu [[CV](https://ljcc0930.github.io/docs/cv_jiancheng.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=ReWNzl4AAAAJ)] [[GitHub](https://github.com/ljcc0930)] [[LinkedIn](https://www.linkedin.com/in/ljcc0930/)]
 
 ### My selected publications (by category)
 |Paper Title|Venue|<div style="width:350px">Repository</div>|
