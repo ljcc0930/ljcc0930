@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is [Jiancheng (JC) Liu](https://ljcc0930.github.io/). I am a graduate student in Computer Science and Engineering at Michigan State University. I currently work at [OPTML Group](https://www.optml-group.com/), advised by [Prof. Sijia Liu](https://lsjxjtu.github.io/). My research goal is to foster a seamless integration of AI with humanity, through a deeper comprehension of natural laws and societal dynamics. A recent topic of my research is enhancing AI's trustworthiness through *Machine Unlearning*.
+My name is [Jiancheng (JC) Liu](https://ljcc0930.github.io/). I am a graduate student in Computer Science and Engineering at Michigan State University, advised by [Prof. Sijia Liu](https://lsjxjtu.github.io/). My research goal is to foster a seamless integration of AI with humanity, through a deeper comprehension of natural laws and societal dynamics. A recent topic of my research is enhancing AI's trustworthiness through *Machine Unlearning*.
 
 I received my B.E. in computer science from the [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/) ([Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), headed by [Prof. Andrew Chi-Chih Yao](https://iiis.tsinghua.edu.cn/yao/)), Tsinghua University. I am fortunate to have been advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/shimin.htm) on my undergraduate research and bachelor thesis. In 2018, I had some wonderful times working with [Prof. Wojciech Matusik](https://cdfg.mit.edu/wojciech) and [Dr. Yuanming Hu](https://yuanming.taichi.graphics/) at MIT.
 
@@ -8,7 +8,7 @@ Before studying at MSU, I joined [Taichi Graphics Technology, Inc.](https://taic
 
 </br>
 
-**Email:** liujia45 (at) msu (dot) edu [[CV](https://ljcc0930.github.io/docs/cv_jiancheng.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=ReWNzl4AAAAJ)] [[GitHub](https://github.com/ljcc0930)] [[LinkedIn](https://www.linkedin.com/in/ljcc0930/)]
+**Email:** ljcc0930 (at) gmail (dot) com [[CV](https://ljcc0930.github.io/docs/cv_jiancheng.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=ReWNzl4AAAAJ)] [[GitHub](https://github.com/ljcc0930)] [[LinkedIn](https://www.linkedin.com/in/ljcc0930/)]
 
 ### My selected publications (by category)
 |Paper Title|Venue|<div style="width:350px">Repository</div>|
