@@ -18,7 +18,7 @@ Before studying at MSU, I joined [Taichi Graphics Technology, Inc.](https://taic
 <!-- [[CV](https://ljcc0930.github.io/docs/cv_jiancheng.pdf)] -->
 <!-- [[GitHub](https://github.com/ljcc0930)] -->
 
-### My selected publications (by category)
+<!-- ### My selected publications (by category)
 |Paper Title|Venue|<div style="width:350px">Repository</div>|
 |---|:---:|:---:|
 |**Unlearning for LLMs**||
@@ -40,4 +40,4 @@ Before studying at MSU, I joined [Taichi Graphics Technology, Inc.](https://taic
 |**Physical-informed ML**||
 |[Towards Universal Mesh Movement Networks](https://arxiv.org/abs/2407.00382)| NeurIPS'24 (**Spotlight**) | [![mesh-adaptation/UM2N](https://img.shields.io/badge/UM2N-grey?logo=github)](https://github.com/mesh-adaptation/UM2N) |
 |[Complex Locomotion Skill Learning via Differentiable Physics](https://arxiv.org/abs/2206.02341)| Technical Report | [![erizmr/Complex-locomotion-skill-learning-via-differentiable-physics](https://img.shields.io/badge/Complex--learning-grey?logo=github)](https://github.com/erizmr/Complex-locomotion-skill-learning-via-differentiable-physics) |
-|[ChainQueen: A Real-Time Differentiable Physical Simulator for Soft Robotics](https://arxiv.org/abs/1810.01054)| ICRA'19 |[![yuanming-hu/ChainQueen](https://img.shields.io/badge/ChainQueen-grey?logo=github)](https://github.com/yuanming-hu/ChainQueen)|
+|[ChainQueen: A Real-Time Differentiable Physical Simulator for Soft Robotics](https://arxiv.org/abs/1810.01054)| ICRA'19 |[![yuanming-hu/ChainQueen](https://img.shields.io/badge/ChainQueen-grey?logo=github)](https://github.com/yuanming-hu/ChainQueen)| -->
