@@ -11,7 +11,7 @@ Before studying at MSU, I joined [Taichi Graphics Technology, Inc.](https://taic
 
 </br>
 
-**Email:** ljcc0930 (at) gmail (dot) com
+**Email:** ljcc (at) openai (dot) com
 [[Personal Website](https://ljcc0930.github.io/)]
 [[Google Scholar](https://scholar.google.com/citations?user=ReWNzl4AAAAJ)]
 [[LinkedIn](https://www.linkedin.com/in/ljcc0930/)]
