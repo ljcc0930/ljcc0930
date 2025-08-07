@@ -16,7 +16,7 @@ Before studying at MSU, I joined [Taichi Graphics Technology, Inc.](https://taic
 [[Personal Website](https://ljcc0930.github.io/)]
 [[Google Scholar](https://scholar.google.com/citations?user=ReWNzl4AAAAJ)]
 [[LinkedIn](https://www.linkedin.com/in/ljcc0930/)]
-<!-- [[CV](https://ljcc0930.github.io/docs/cv_jiancheng.pdf)] -->
+[[CV](https://ljcc0930.github.io/docs/cv_jiancheng.pdf)]
 <!-- [[GitHub](https://github.com/ljcc0930)] -->
 
 <!-- ### My selected publications (by category)
