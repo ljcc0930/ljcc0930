@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-My name is [Jiancheng (JC) Liu](https://ljcc0930.github.io/). I am a member of technical staff at OpenAI, working on LLM post-training.
+My name is [Jiancheng (JC) Liu](https://ljcc0930.github.io/). I am a member of technical staff at OpenAI, working on LLM post-training. I am one of the contributors of GPT-5 and [gpt-oss](https://openai.com/index/introducing-gpt-oss/).
+
 
 I obtained my M.S. degree in Computer Science at Michigan State University, advised by [Prof. Sijia Liu](https://lsjxjtu.github.io/). During the two years, I focused on enhancing the AI's trustworthiness through *Machine Unlearning*.
 
