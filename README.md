@@ -6,6 +6,8 @@ I received my B.E. in computer science from the [Institute for Interdisciplinary
 
 Before joining OpenAI, I completed my M.S. degree in Computer Science at Michigan State University. During those two years, I focused on enhancing AI trustworthiness through *Machine Unlearning* in collaboration with [Prof. Sijia Liu](https://lsjxjtu.github.io/).
 
+I am an AASI-certified level 1 snowboard instructor and was a baritone singer in the Tsinghua A Cappella Club. I love snowboarding and singing.
+
 </br>
 
 **Email:** ljcc (at) openai (dot) com
