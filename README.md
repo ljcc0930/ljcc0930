@@ -6,7 +6,7 @@ I received my B.E. in computer science from the [Institute for Interdisciplinary
 
 Before joining OpenAI, I completed my M.S. degree in Computer Science at Michigan State University. During those two years, I focused on enhancing AI trustworthiness through *Machine Unlearning* in collaboration with [Prof. Sijia Liu](https://lsjxjtu.github.io/).
 
-I am an AASI-certified level 1 snowboard instructor and was a baritone singer in the Tsinghua A Cappella Club. I love snowboarding and singing.
+I am an AASI-certified level 1 snowboard instructor and was a baritone singer in the Tsinghua A Cappella Club. I love snowboarding and singing. If you are looking for a place to ski, you can check this [ski resort weather forecast](https://ljcc0930.github.io/CloseSnow/).
 
 </br>
 
