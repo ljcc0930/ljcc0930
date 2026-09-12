@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is [Jiancheng (JC) Liu](https://ljcc.me/). I am a Member of Technical Staff at OpenAI, working on LLM post-training. I am one of the contributors to the [GPT-5 series](https://openai.com/index/introducing-gpt-5/) and the [gpt-oss](https://openai.com/index/introducing-gpt-oss/) series.
+My name is [Jiancheng (JC) Liu](https://ljcc.me/). I am a Member of Technical Staff at OpenAI, working on post-training science.
 
 I received my B.E. in computer science from the [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/) ([Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/)), Tsinghua University. I was fortunate to be advised by [Prof. Shi-Min Hu](https://cg.cs.tsinghua.edu.cn/shimin.htm) on my undergraduate research and bachelor's thesis. In 2018, I spent time working with [Prof. Wojciech Matusik](https://cdfg.mit.edu/wojciech) and [Dr. Yuanming Hu](https://yuanming.taichi.graphics/) at MIT.
 
